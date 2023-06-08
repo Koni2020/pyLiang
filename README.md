@@ -22,5 +22,5 @@ res = causality_est(ts1, ts2)
 print(res)
 ```
 # References
-1. San Liang X. Unraveling the cause-effect relation between time series[J]. Physical Review E, 2014, 90(5): 052150. doi:
-2. San Liang X. Normalizing the causality between time series[J]. Physical Review E, 2015, 92(2): 022126. doi: 
+1. San Liang X. Unraveling the cause-effect relation between time series[J]. Physical Review E, 2014, 90(5): 052150. doi:[10.1103/PhysRevE.90.052150](https://link.aps.org/doi/10.1103/PhysRevE.90.052150)
+2. San Liang X. Normalizing the causality between time series[J]. Physical Review E, 2015, 92(2): 022126. doi:[10.1103/PhysRevE.92.022126](https://link.aps.org/doi/10.1103/PhysRevE.92.022126)
