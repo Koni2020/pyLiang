@@ -22,18 +22,11 @@ setup(
     license = __license__,
     install_requires = ["numpy"],
     classifiers = [
-		"Programming Language :: Python :: 2.7",
-		"Programming Language :: Python :: 3.4",
-		"Programming Language :: Python :: 3.5",
-		"Programming Language :: Python :: 3.6",
-        "Programming Language :: Python :: 3.7",
-		"Programming Language :: Python :: 3.8",
 		"Programming Language :: Python :: 3.9",
-        "License :: OSI Approved :: MIT License",
+                "License :: OSI Approved :: MIT License",
 		"Intended Audience :: Science/Research",
 		"Operating System :: OS Independent",
 		"Topic :: Scientific/Engineering",
-		"Development Status :: 1 - Production/Stable"
     ]
 )
 
