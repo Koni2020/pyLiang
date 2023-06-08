@@ -1,4 +1,3 @@
-# pyLiang
 # Disclaimer
 This module is based on routines provided by Sanxiang Liang at http://www.ncoads.cn/.
 # What is the pyLiang?
