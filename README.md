@@ -1,2 +1,3 @@
 # pyLiang
-What is the Liang causality test?
+# What is the pyLiang?
+  
