@@ -2,7 +2,7 @@
 # Disclaimer
 This module is based on routines provided by Sanxiang Liang at http://www.ncoads.cn/.
 # What is the pyLiang?
-The liang-klleeman information flow (Liang) is used to detect causality between two time series. In a dynamic system, when information flow is transmitted between two entities in a specific way and often implies causality. Specifically, if the information flow rate between two time series events is close to zero, there is no causal relationship, vice versa.
+The liang-klleeman information flow causality test is used to detect causality between two time series. In a dynamic system, when information flow is transmitted between two entities in a specific way and often implies causality. Specifically, if the information flow rate between two time series events is close to zero, there is no causal relationship, vice versa.
 # Dependencies
 For the installation of pyLiang, the following packages are required:
 * [numpy](https://numpy.org/)
